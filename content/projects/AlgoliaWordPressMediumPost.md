@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Snake Game'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://github.com/Atharvayemul/Snake-Game.git'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Python
+  - Turtle
+  - Pygame
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A Classic Snake Game implemented in the Python language.
